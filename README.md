@@ -1,5 +1,5 @@
 PI2102_Karpenko, reposition for lab 2.
-![picture](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftrends.rbc.ru%2Ftrends%2Ffuturology%2F5e4160279a794731e2ca8332&psig=AOvVaw1l9wrw_lKPv4k6uuZuwtQS&ust=1708695872434000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODzgqOKv4QDFQAAAAAdAAAAABAE)
+![picture](https://img.freepik.com/free-photo/young-smiling-blonde-russian-girl-holds-phone-and-looks-at-credit-card_141793-96238.jpg?w=1380&t=st=1708609574~exp=1708610174~hmac=3fefddb307a311d739079bfadfc02b1b69a4513c052ad3d3c52e1a18cbb7f9cd)
 - Moscow
 - Boston
 - Oklahoma
