@@ -1,5 +1,5 @@
 PI2102_Karpenko, reposition for lab 2.
-![picture]("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fru%2Fsearch%3Fq%3D%25D1%2585%25D1%258D%25D0%25BB%25D0%25BB%25D0%25BE%25D1%2583%25D0%25B8%25D0%25BD%2B%25D0%259A%25D0%25B0%25D1%2580%25D1%2582%25D0%25B8%25D0%25BD%25D0%25BA%25D0%25B8&psig=AOvVaw29meSl7IuRLOwBsiwt09TG&ust=1708695667345000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDmqMGJv4QDFQAAAAAdAAAAABAH")
+![picture]("https://www.google.com/url?sa=i&url=https%3A%2F%2Ftrends.rbc.ru%2Ftrends%2Ffuturology%2F5e4160279a794731e2ca8332&psig=AOvVaw1l9wrw_lKPv4k6uuZuwtQS&ust=1708695872434000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODzgqOKv4QDFQAAAAAdAAAAABAE")
 - Moscow
 - Boston
 - Oklahoma
